@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="50" pc="268435458" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="52" pc="268435476" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="54" pc="268435483" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="55" pc="268435490" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="56" pc="268435500" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="57" pc="268435513" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="60" pc="268435526" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="61" pc="268435539" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="62" pc="268435552" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="63" pc="268435565" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="64" pc="268435578" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="66" pc="268435588" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="67" pc="268435599" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="68" pc="268435632" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="69" pc="268435671" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="70" pc="268435710" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="71" pc="268435749" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="72" pc="268435788" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="73" pc="268435827" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="74" pc="268435866" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="75" pc="268435905" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="78" pc="268435947" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="79" pc="268435973" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="82" pc="268435989" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="83" pc="268436000" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="84" pc="268436020" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="86" pc="268436043" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="87" pc="268436063" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="90" pc="268436083" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="91" pc="268436115" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="94" pc="268436137" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="95" pc="268436169" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="98" pc="268436191" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="99" pc="268436223" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="102" pc="268436245" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="103" pc="268436277" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="106" pc="268436299" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="107" pc="268436331" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="110" pc="268436353" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="111" pc="268436385" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="114" pc="268436407" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="115" pc="268436439" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="118" pc="268436461" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="119" pc="268436493" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="122" pc="268436515" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="123" pc="268436528" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="125" pc="268436541" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="126" pc="268436555" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="127" pc="268436568" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="128" pc="268436581" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="130" pc="268436597" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="131" pc="268436610" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="132" pc="268436623" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="135" pc="268436636" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="136" pc="268436673" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="138" pc="268436689" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="141" pc="268436702" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="142" pc="268436755" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="144" pc="268436771" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="146" pc="268436796" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="147" pc="268436809" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="148" pc="268436822" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="165" pc="268436847" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="166" pc="268436875" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="167" pc="268436887" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="171" pc="268436919" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="172" pc="268436969" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="174" pc="268437016" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="175" pc="268437030" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="176" pc="268437083" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="177" pc="268437136" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="178" pc="268437169" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="181" pc="268437225" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="182" pc="268437269" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="184" pc="268437313" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="185" pc="268437357" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="187" pc="268437401" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="189" pc="268437415" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="190" pc="268437443" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="191" pc="268437475" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="194" pc="268437510" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="195" pc="268437554" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="197" pc="268437598" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="198" pc="268437642" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="202" pc="268437686" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="205" pc="268437722" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="206" pc="268437754" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="209" pc="268437786" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="210" pc="268437818" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="213" pc="268437850" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="214" pc="268437882" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="218" pc="268437914" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="219" pc="268437928" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="220" pc="268437960" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="223" pc="268437995" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="229" pc="268438001" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="230" pc="268438018" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="231" pc="268438031" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="233" pc="268438078" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="234" pc="268438091" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="236" pc="268438149" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="237" pc="268438162" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="239" pc="268438228" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="240" pc="268438241" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="242" pc="268438299" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="243" pc="268438312" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="245" pc="268438359" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="246" pc="268438372" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="248" pc="268438419" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="249" pc="268438432" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="251" pc="268438479" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="252" pc="268438492" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="253" pc="268438508" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="254" pc="268438521" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="256" pc="268438546" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="258" pc="268438576" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="259" pc="268438589" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="263" pc="268438616" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="264" pc="268438633" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="265" pc="268438646" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="267" pc="268438693" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="268" pc="268438706" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="270" pc="268438764" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="271" pc="268438777" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="273" pc="268438843" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="274" pc="268438856" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="276" pc="268438914" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="277" pc="268438927" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="279" pc="268438974" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="280" pc="268438987" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="282" pc="268439034" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="283" pc="268439047" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="285" pc="268439094" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="286" pc="268439107" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="287" pc="268439123" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="288" pc="268439136" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="290" pc="268439161" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="292" pc="268439191" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="293" pc="268439204" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="297" pc="268439231" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="298" pc="268439248" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="299" pc="268439261" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="301" pc="268439308" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="302" pc="268439321" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="304" pc="268439379" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="305" pc="268439392" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="307" pc="268439458" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="308" pc="268439471" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="310" pc="268439529" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="311" pc="268439542" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="313" pc="268439589" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="314" pc="268439602" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="316" pc="268439649" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="317" pc="268439662" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="319" pc="268439709" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="320" pc="268439722" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="321" pc="268439738" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="322" pc="268439751" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="324" pc="268439776" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="326" pc="268439806" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="327" pc="268439819" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="331" pc="268439865" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="332" pc="268439882" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="333" pc="268439895" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="335" pc="268439942" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="336" pc="268439955" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="338" pc="268440013" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="339" pc="268440026" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="341" pc="268440092" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="342" pc="268440105" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="344" pc="268440163" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="345" pc="268440176" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="347" pc="268440223" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="348" pc="268440236" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="350" pc="268440283" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="351" pc="268440296" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="353" pc="268440343" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="354" pc="268440356" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="355" pc="268440372" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="356" pc="268440385" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="358" pc="268440410" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="360" pc="268440440" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="361" pc="268440453" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="365" pc="268440480" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="366" pc="268440480" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="367" pc="268440497" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="369" pc="268440510" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="372" pc="268440520" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="373" pc="268440527" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="375" pc="268440540" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="378" pc="268440547" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="381" pc="268440568" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="383" pc="268440582" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="384" pc="268440616" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="385" pc="268440645" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="387" pc="268440658" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="388" pc="268440675" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="390" pc="268440691" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="391" pc="268440708" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="395" pc="268440724" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="403" pc="268440766" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="404" pc="268440773" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="406" pc="268440786" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="409" pc="268440793" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="411" pc="268440828" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="412" pc="268440871" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="414" pc="268440902" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="415" pc="268440919" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="419" pc="268440938" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="422" pc="268440954" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="423" pc="268440977" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="424" pc="268440987" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="425" pc="268440997" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="429" pc="268441022" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="434" pc="268441031" symbol="calculateLapPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="440" pc="268441054" symbol="toStr"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="441" pc="268441075" symbol="toStr"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="443" pc="268441087" symbol="toStr"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="450" pc="268441096" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="451" pc="268441106" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="453" pc="268441119" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="454" pc="268441144" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="455" pc="268441155" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="457" pc="268441179" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="461" pc="268441195" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="462" pc="268441206" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="465" pc="268441222" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="470" pc="268441263" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="471" pc="268441270" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="474" pc="268441279" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="475" pc="268441292" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="476" pc="268441302" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="477" pc="268441315" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="478" pc="268441325" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="480" pc="268441338" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="481" pc="268441338" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="482" pc="268441349" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="484" pc="268441408" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="487" pc="268441441" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="492" pc="268441447" symbol="toPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="493" pc="268441468" symbol="toPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="496" pc="268441473" symbol="toPace"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="501" pc="268441488" symbol="toDist"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="502" pc="268441495" symbol="toDist"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="505" pc="268441504" symbol="toDist"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="506" pc="268441517" symbol="toDist"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="511" pc="268441539" symbol="textL"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="512" pc="268441546" symbol="textL"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="518" pc="268441601" symbol="textC"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="519" pc="268441608" symbol="textC"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="6" pc="268441663" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="19" pc="268441690" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="54" symbol="timerType"/>
+<entry field="true" id="38" symbol="secondFieldLabel"/>
+<entry field="true" id="59" symbol="timeFieldOffset"/>
+<entry field="true" id="26" symbol="SecondFieldLabel"/>
+<entry id="65" method="true" symbol="fmtTime"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="43" symbol="forthField"/>
+<entry field="true" id="21" symbol="LapSplitLabel"/>
+<entry id="66" method="true" symbol="fmtSecs"/>
+<entry field="true" id="61" symbol="foregroundColour"/>
+<entry field="true" id="45" symbol="timerFieldMode"/>
+<entry id="64" method="true" symbol="toStr"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="40" symbol="thirdField"/>
+<entry field="true" id="29" symbol="TimerTypeLabel"/>
+<entry field="true" id="35" symbol="firstFieldLabel"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="25" symbol="TimerFieldLabel"/>
+<entry field="true" id="30" symbol="ForthFieldLabel"/>
+<entry field="true" id="34" symbol="firstField"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="57" symbol="timerLabel_y"/>
+<entry field="true" id="36" symbol="secondFieldMode"/>
+<entry field="true" id="53" symbol="timer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="24" symbol="AppName"/>
+<entry field="true" id="58" symbol="timeField"/>
+<entry field="true" id="14" symbol="LapPace"/>
+<entry field="true" id="13" symbol="UseTotal"/>
+<entry field="true" id="52" symbol="split"/>
+<entry field="true" id="42" symbol="forthFieldMode"/>
+<entry field="true" id="15" symbol="HeartRate"/>
+<entry field="true" id="51" symbol="lapSplit"/>
+<entry field="true" id="46" symbol="batteryField"/>
+<entry field="true" id="12" symbol="LauncherIcon"/>
+<entry field="true" id="32" symbol="AveCadence"/>
+<entry field="true" id="47" symbol="batteryFieldOffset"/>
+<entry field="true" id="17" symbol="AvePace"/>
+<entry field="true" id="22" symbol="BlackBackgroundLabel"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="20" symbol="Cadence"/>
+<entry field="true" id="28" symbol="FirstFieldLabel"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="18" symbol="ThirdFieldLabel"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="69" method="true" symbol="textL"/>
+<entry id="70" method="true" symbol="textC"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="37" symbol="secondField"/>
+<entry field="true" id="60" symbol="invertMiddleBackground"/>
+<entry id="9" object="true" symbol="SnapshotApp"/>
+<entry id="63" method="true" symbol="calculateLapPace"/>
+<entry id="68" method="true" symbol="toDist"/>
+<entry field="true" id="33" symbol="firstFieldMode"/>
+<entry field="true" id="48" symbol="currentLap"/>
+<entry field="true" id="8388958" symbol="speed"/>
+<entry field="true" id="50" symbol="previousLapTime"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry field="true" id="27" symbol="AveHeartRate"/>
+<entry field="true" id="16" symbol="UseTimer"/>
+<entry id="8" object="true" symbol="SnapshotView"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="19" symbol="CurPace"/>
+<entry field="true" id="56" symbol="timer_y"/>
+<entry field="true" id="55" symbol="timer_x"/>
+<entry field="true" id="44" symbol="forthFieldLabel"/>
+<entry field="true" id="62" symbol="backgroundColour"/>
+<entry field="true" id="41" symbol="thirdFieldLabel"/>
+<entry id="67" method="true" symbol="toPace"/>
+<entry id="10" module="true" symbol="Menus"/>
+<entry field="true" id="31" symbol="Distance"/>
+<entry field="true" id="49" symbol="previousLapDist"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="23" symbol="InvertMiddleBackgroundLabel"/>
+<entry field="true" id="39" symbol="thirdFieldMode"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436835" name="background" stackId="2" startPc="268435458"/>
+<entry endPc="268436835" name="usePreferences" stackId="1" startPc="268435458"/>
+<entry endPc="268437222" name="length" stackId="2" startPc="268437030"/>
+<entry endPc="268440763" name="time" stackId="2" startPc="268438001"/>
+<entry endPc="268441260" name="h" stackId="2" startPc="268441096"/>
+<entry endPc="268441444" name="fmt" stackId="5" startPc="268441263"/>
+<entry endPc="268441444" name="hours" stackId="3" startPc="268441263"/>
+<entry endPc="268441444" name="minutes" stackId="4" startPc="268441263"/>
+<entry endPc="268441444" name="s" stackId="2" startPc="268441263"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="SnapshotView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="SnapshotView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="SnapshotView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="SnapshotView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="SnapshotView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="SnapshotView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="calculateLapPace" parent="SnapshotView">
+<param id="distance"/>
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="toStr" parent="SnapshotView">
+<param id="o"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="fmtTime" parent="SnapshotView">
+<param id="clock"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="fmtSecs" parent="SnapshotView">
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="toPace" parent="SnapshotView">
+<param id="speed"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="toDist" parent="SnapshotView">
+<param id="dist"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="textL" parent="SnapshotView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="s"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="textC" parent="SnapshotView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="s"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SnapshotApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="SnapshotApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="SnapshotApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="SnapshotApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

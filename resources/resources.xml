@@ -1,0 +1,106 @@
+<resources>
+
+	<properties>
+		<property id="blackBackground" type="boolean">true</property>
+		<property id="invertMiddleBackground" type="boolean">true</property>
+		<property id="firstFieldMode" type="number">4</property>
+		<property id="secondFieldMode" type="number">6</property>
+		<property id="thirdFieldMode" type="number">2</property>
+		<property id="forthFieldMode" type="number">0</property>
+		<property id="lapSplit" type="float">1.0</property>
+		<property id="timerType" type="number">0</property>
+		<property id="timerFieldMode" type="boolean">true</property>
+	</properties>
+
+	<strings>
+		<string id="BlackBackgroundLabel">Use black background</string>
+		<string id="InvertMiddleBackgroundLabel">Invert colour of middle two fields</string>
+		<string id="FirstFieldLabel">Top left-side field</string>
+		<string id="SecondFieldLabel">Top right-side field</string>
+		<string id="ThirdFieldLabel">Middle left-side field</string>
+		<string id="ForthFieldLabel">Middle right-side field</string>
+		<string id="TimerFieldLabel">Show time-of-day and battery percent in bottom field</string>
+		<string id="TimerTypeLabel">Bottom field</string>
+		<string id="LapSplitLabel">If using lap pace, lap at ... (in km or miles)</string>
+		<string id="UseTimer">Timer</string>
+		<string id="UseTotal">Total Elapsed Time</string>
+		<string id="Distance">Distance</string>
+		<string id="CurPace">Current Pace</string>
+		<string id="LapPace">Lap Pace</string>
+		<string id="AvePace">Average Pace</string>
+		<string id="HeartRate">Heart Rate</string>
+		<string id="AveHeartRate">Average Heart Rate</string>
+		<string id="Cadence">Cadence</string>
+		<string id="AveCadence">Average Cadence</string>
+	</strings>
+
+	<settings>
+		<setting propertyKey="@Properties.blackBackground" title="@Strings.BlackBackgroundLabel">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.invertMiddleBackground" title="@Strings.InvertMiddleBackgroundLabel">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.firstFieldMode" title="@Strings.FirstFieldLabel">
+			<settingConfig type="list" required="true">
+				<listEntry value="0">@Strings.Distance</listEntry>
+				<listEntry value="1">@Strings.CurPace</listEntry>
+				<listEntry value="2">@Strings.LapPace</listEntry>
+				<listEntry value="3">@Strings.AvePace</listEntry>
+				<listEntry value="4">@Strings.HeartRate</listEntry>
+				<listEntry value="5">@Strings.AveHeartRate</listEntry>
+				<listEntry value="6">@Strings.Cadence</listEntry>
+				<listEntry value="7">@Strings.AveCadence</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.secondFieldMode" title="@Strings.SecondFieldLabel">
+			<settingConfig type="list" required="true">
+				<listEntry value="0">@Strings.Distance</listEntry>
+				<listEntry value="1">@Strings.CurPace</listEntry>
+				<listEntry value="2">@Strings.LapPace</listEntry>
+				<listEntry value="3">@Strings.AvePace</listEntry>
+				<listEntry value="4">@Strings.HeartRate</listEntry>
+				<listEntry value="5">@Strings.AveHeartRate</listEntry>
+				<listEntry value="6">@Strings.Cadence</listEntry>
+				<listEntry value="7">@Strings.AveCadence</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.thirdFieldMode" title="@Strings.ThirdFieldLabel">
+			<settingConfig type="list" required="true">
+				<listEntry value="0">@Strings.Distance</listEntry>
+				<listEntry value="1">@Strings.CurPace</listEntry>
+				<listEntry value="2">@Strings.LapPace</listEntry>
+				<listEntry value="3">@Strings.AvePace</listEntry>
+				<listEntry value="4">@Strings.HeartRate</listEntry>
+				<listEntry value="5">@Strings.AveHeartRate</listEntry>
+				<listEntry value="6">@Strings.Cadence</listEntry>
+				<listEntry value="7">@Strings.AveCadence</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.forthFieldMode" title="@Strings.ForthFieldLabel">
+			<settingConfig type="list" required="true">
+				<listEntry value="0">@Strings.Distance</listEntry>
+				<listEntry value="1">@Strings.CurPace</listEntry>
+				<listEntry value="2">@Strings.LapPace</listEntry>
+				<listEntry value="3">@Strings.AvePace</listEntry>
+				<listEntry value="4">@Strings.HeartRate</listEntry>
+				<listEntry value="5">@Strings.AveHeartRate</listEntry>
+				<listEntry value="6">@Strings.Cadence</listEntry>
+				<listEntry value="7">@Strings.AveCadence</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.timerType" title="@Strings.TimerTypeLabel">
+			<settingConfig type="list" required="true">
+				<listEntry value="0">@Strings.UseTimer</listEntry>
+				<listEntry value="1">@Strings.UseTotal</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.timerFieldMode" title="@Strings.TimerFieldLabel">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.lapSplit" title="@Strings.LapSplitLabel">
+			<settingConfig type="numeric" />
+		</setting>
+	</settings>
+
+</resources>
