@@ -6,3 +6,5 @@ The top 4 fields allow you to select from: distance, current pace, lap pace[*], 
 All fonts are deliberately large enough to read while out running (for me at least). The background colours are customisable in a way that I find helps visibility and looks better with the backlight.
 
 [*] Garmin doesn't provide access to lap pace so I calculate it based on a user-specified recurring lap distance. This may or may not match the lap/interval alerts you have set on your watch. There's currently no way for Snapshot to know that information unfortunately.
+
+A special thanks to dmuino/HMFields, from whom i borrowed various snippets of CIQ code: https://github.com/dmuino/HMFields.
