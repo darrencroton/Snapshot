@@ -75,48 +75,12 @@ class SnapshotView extends Ui.DataField {
 			timerFieldMode = Application.getApp().getProperty("timerFieldMode");
 		}
 
-		if (background instanceof Toybox.Lang.String) {
-			background = background.toBoolean();
-		}
-
 		if (background == 1) {
 			foregroundColour = Gfx.COLOR_WHITE;
 			backgroundColour = Gfx.COLOR_BLACK;
 		} else {
 			foregroundColour = Gfx.COLOR_BLACK;
 			backgroundColour = Gfx.COLOR_WHITE;
-		}
-
-		if (invertMiddleBackground instanceof Toybox.Lang.String) {
-			invertMiddleBackground = background.toBoolean();
-		}
-
-		if (firstFieldMode instanceof Toybox.Lang.String) {
-			firstFieldMode = background.toNumber();
-		}
-
-		if (secondFieldMode instanceof Toybox.Lang.String) {
-			secondFieldMode = background.toNumber();
-		}
-
-		if (thirdFieldMode instanceof Toybox.Lang.String) {
-			thirdFieldMode = background.toNumber();
-		}
-
-		if (forthFieldMode instanceof Toybox.Lang.String) {
-			forthFieldMode = background.toNumber();
-		}
-
-		if (lapSplit instanceof Toybox.Lang.String) {
-			lapSplit = background.toNumber();
-		}
-
-		if (timerType instanceof Toybox.Lang.String) {
-			timerType = background.toNumber();
-		}
-
-		if (timerFieldMode instanceof Toybox.Lang.String) {
-			timerFieldMode = background.toBoolean();
 		}
 
 		timeFieldOffset = 0;
