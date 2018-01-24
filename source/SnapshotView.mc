@@ -467,7 +467,7 @@ class SnapshotView extends Ui.DataField {
 		}
 
 		dist = dist / split;
-		return dist.format("%.2f", dist);
+		return dist.format("%.2f");
 	}
 
 

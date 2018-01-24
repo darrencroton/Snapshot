@@ -241,159 +241,182 @@
 <entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="466" pc="268441045" symbol="toDist"/>
 <entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="469" pc="268441054" symbol="toDist"/>
 <entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="470" pc="268441067" symbol="toDist"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="474" pc="268441087" symbol="textL"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="475" pc="268441091" symbol="textL"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="476" pc="268441098" symbol="textL"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="481" pc="268441151" symbol="textC"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="482" pc="268441155" symbol="textC"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="483" pc="268441162" symbol="textC"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="5" pc="268441215" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="6" pc="268441219" symbol="initialize"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="10" pc="268441238" symbol="onStart"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="14" pc="268441243" symbol="onStop"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="18" pc="268441248" symbol="getInitialView"/>
-<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="19" pc="268441252" symbol="getInitialView"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="474" pc="268441085" symbol="textL"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="475" pc="268441089" symbol="textL"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="476" pc="268441096" symbol="textL"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="481" pc="268441149" symbol="textC"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="482" pc="268441153" symbol="textC"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotView.mc" lineNum="483" pc="268441160" symbol="textC"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="5" pc="268441213" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="6" pc="268441217" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="10" pc="268441236" symbol="onStart"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="14" pc="268441241" symbol="onStop"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="18" pc="268441246" symbol="getInitialView"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/Snapshot/source/SnapshotApp.mc" lineNum="19" pc="268441250" symbol="getInitialView"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="54" symbol="timerType"/>
-<entry field="true" id="38" symbol="secondFieldLabel"/>
-<entry field="true" id="59" symbol="timeFieldOffset"/>
-<entry field="true" id="26" symbol="SecondFieldLabel"/>
-<entry id="65" method="true" symbol="fmtTime"/>
+<entry field="true" id="55" symbol="timerType"/>
+<entry field="true" id="39" symbol="secondFieldLabel"/>
+<entry field="true" id="60" symbol="timeFieldOffset"/>
+<entry field="true" id="27" symbol="SecondFieldLabel"/>
+<entry id="66" method="true" symbol="fmtTime"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry field="true" id="43" symbol="forthField"/>
-<entry field="true" id="21" symbol="LapSplitLabel"/>
-<entry id="66" method="true" symbol="fmtSecs"/>
-<entry field="true" id="61" symbol="foregroundColour"/>
-<entry field="true" id="45" symbol="timerFieldMode"/>
-<entry id="64" method="true" symbol="toStr"/>
-<entry field="true" id="8388611" symbol="Toybox"/>
-<entry field="true" id="40" symbol="thirdField"/>
-<entry field="true" id="29" symbol="TimerTypeLabel"/>
-<entry field="true" id="35" symbol="firstFieldLabel"/>
-<entry id="8388770" module="true" symbol="Strings"/>
-<entry field="true" id="25" symbol="TimerFieldLabel"/>
-<entry field="true" id="30" symbol="ForthFieldLabel"/>
-<entry field="true" id="34" symbol="firstField"/>
+<entry field="true" id="44" symbol="forthField"/>
+<entry field="true" id="22" symbol="LapSplitLabel"/>
+<entry id="67" method="true" symbol="fmtSecs"/>
+<entry field="true" id="62" symbol="foregroundColour"/>
+<entry field="true" id="46" symbol="timerFieldMode"/>
+<entry id="65" method="true" symbol="toStr"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="41" symbol="thirdField"/>
+<entry field="true" id="30" symbol="TimerTypeLabel"/>
+<entry field="true" id="36" symbol="firstFieldLabel"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="26" symbol="TimerFieldLabel"/>
+<entry field="true" id="31" symbol="ForthFieldLabel"/>
+<entry field="true" id="35" symbol="firstField"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry field="true" id="57" symbol="timerLabel_y"/>
-<entry field="true" id="36" symbol="secondFieldMode"/>
-<entry field="true" id="53" symbol="timer"/>
+<entry field="true" id="58" symbol="timerLabel_y"/>
+<entry field="true" id="37" symbol="secondFieldMode"/>
+<entry field="true" id="54" symbol="timer"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="24" symbol="AppName"/>
-<entry field="true" id="58" symbol="timeField"/>
-<entry field="true" id="14" symbol="LapPace"/>
-<entry field="true" id="13" symbol="UseTotal"/>
-<entry field="true" id="52" symbol="split"/>
-<entry field="true" id="42" symbol="forthFieldMode"/>
-<entry field="true" id="15" symbol="HeartRate"/>
-<entry field="true" id="51" symbol="lapSplit"/>
-<entry field="true" id="46" symbol="batteryField"/>
-<entry field="true" id="12" symbol="LauncherIcon"/>
-<entry field="true" id="32" symbol="AveCadence"/>
-<entry field="true" id="47" symbol="batteryFieldOffset"/>
-<entry field="true" id="17" symbol="AvePace"/>
-<entry field="true" id="22" symbol="BlackBackgroundLabel"/>
+<entry field="true" id="25" symbol="AppName"/>
+<entry field="true" id="59" symbol="timeField"/>
+<entry field="true" id="15" symbol="LapPace"/>
+<entry field="true" id="14" symbol="UseTotal"/>
+<entry field="true" id="53" symbol="split"/>
+<entry field="true" id="43" symbol="forthFieldMode"/>
+<entry field="true" id="16" symbol="HeartRate"/>
+<entry field="true" id="52" symbol="lapSplit"/>
+<entry field="true" id="47" symbol="batteryField"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="33" symbol="AveCadence"/>
+<entry field="true" id="48" symbol="batteryFieldOffset"/>
+<entry field="true" id="18" symbol="AvePace"/>
+<entry field="true" id="23" symbol="BlackBackgroundLabel"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="20" symbol="Cadence"/>
-<entry field="true" id="28" symbol="FirstFieldLabel"/>
-<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="21" symbol="Cadence"/>
+<entry field="true" id="29" symbol="FirstFieldLabel"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389137" method="true" symbol="compute"/>
-<entry field="true" id="18" symbol="ThirdFieldLabel"/>
+<entry field="true" id="19" symbol="ThirdFieldLabel"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry id="69" method="true" symbol="textL"/>
-<entry id="70" method="true" symbol="textC"/>
+<entry id="70" method="true" symbol="textL"/>
+<entry id="71" method="true" symbol="textC"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="37" symbol="secondField"/>
-<entry field="true" id="60" symbol="invertMiddleBackground"/>
-<entry id="9" object="true" symbol="SnapshotApp"/>
-<entry id="63" method="true" symbol="calculateLapPace"/>
-<entry id="68" method="true" symbol="toDist"/>
-<entry field="true" id="33" symbol="firstFieldMode"/>
-<entry field="true" id="48" symbol="currentLap"/>
+<entry field="true" id="38" symbol="secondField"/>
+<entry field="true" id="61" symbol="invertMiddleBackground"/>
+<entry id="10" object="true" symbol="SnapshotApp"/>
+<entry id="64" method="true" symbol="calculateLapPace"/>
+<entry id="69" method="true" symbol="toDist"/>
+<entry field="true" id="34" symbol="firstFieldMode"/>
+<entry field="true" id="49" symbol="currentLap"/>
 <entry field="true" id="8388958" symbol="speed"/>
-<entry field="true" id="50" symbol="previousLapTime"/>
-<entry id="11" module="true" symbol="Layouts"/>
-<entry field="true" id="27" symbol="AveHeartRate"/>
-<entry field="true" id="16" symbol="UseTimer"/>
-<entry id="8" object="true" symbol="SnapshotView"/>
+<entry field="true" id="51" symbol="previousLapTime"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="28" symbol="AveHeartRate"/>
+<entry field="true" id="17" symbol="UseTimer"/>
+<entry id="9" object="true" symbol="SnapshotView"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="19" symbol="CurPace"/>
-<entry field="true" id="56" symbol="timer_y"/>
-<entry field="true" id="55" symbol="timer_x"/>
-<entry field="true" id="44" symbol="forthFieldLabel"/>
-<entry field="true" id="62" symbol="backgroundColour"/>
-<entry field="true" id="41" symbol="thirdFieldLabel"/>
-<entry id="67" method="true" symbol="toPace"/>
-<entry id="10" module="true" symbol="Menus"/>
-<entry field="true" id="31" symbol="Distance"/>
-<entry field="true" id="49" symbol="previousLapDist"/>
-<entry id="8388772" module="true" symbol="Fonts"/>
-<entry field="true" id="23" symbol="InvertMiddleBackgroundLabel"/>
-<entry field="true" id="39" symbol="thirdFieldMode"/>
+<entry field="true" id="20" symbol="CurPace"/>
+<entry field="true" id="57" symbol="timer_y"/>
+<entry field="true" id="56" symbol="timer_x"/>
+<entry field="true" id="45" symbol="forthFieldLabel"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="63" symbol="backgroundColour"/>
+<entry field="true" id="42" symbol="thirdFieldLabel"/>
+<entry id="68" method="true" symbol="toPace"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="32" symbol="Distance"/>
+<entry field="true" id="50" symbol="previousLapDist"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="24" symbol="InvertMiddleBackgroundLabel"/>
+<entry field="true" id="40" symbol="thirdFieldMode"/>
 </symbolTable>
 <localVars>
 <entry endPc="268436363" name="background" stackId="2" startPc="268435460"/>
 <entry endPc="268436363" name="usePreferences" stackId="1" startPc="268435460"/>
+<entry endPc="268436369" name="dc" stackId="1" startPc="268436364"/>
 <entry endPc="268436758" name="length" stackId="2" startPc="268436566"/>
+<entry endPc="268437535" name="dc" stackId="1" startPc="268436379"/>
 <entry endPc="268440301" name="time" stackId="2" startPc="268437539"/>
+<entry endPc="268440302" name="info" stackId="1" startPc="268437535"/>
+<entry endPc="268440592" name="time" stackId="2" startPc="268440302"/>
+<entry endPc="268440592" name="distance" stackId="1" startPc="268440302"/>
+<entry endPc="268440636" name="o" stackId="1" startPc="268440592"/>
 <entry endPc="268440804" name="h" stackId="2" startPc="268440640"/>
+<entry endPc="268440805" name="clock" stackId="1" startPc="268440636"/>
 <entry endPc="268440990" name="fmt" stackId="5" startPc="268440809"/>
 <entry endPc="268440990" name="hours" stackId="3" startPc="268440809"/>
 <entry endPc="268440990" name="minutes" stackId="4" startPc="268440809"/>
 <entry endPc="268440990" name="s" stackId="2" startPc="268440809"/>
+<entry endPc="268440991" name="secs" stackId="1" startPc="268440805"/>
+<entry endPc="268441034" name="speed" stackId="1" startPc="268440991"/>
+<entry endPc="268441085" name="dist" stackId="1" startPc="268441034"/>
+<entry endPc="268441149" name="x" stackId="2" startPc="268441085"/>
+<entry endPc="268441149" name="dc" stackId="1" startPc="268441085"/>
+<entry endPc="268441149" name="font" stackId="4" startPc="268441085"/>
+<entry endPc="268441149" name="s" stackId="5" startPc="268441085"/>
+<entry endPc="268441149" name="y" stackId="3" startPc="268441085"/>
+<entry endPc="268441213" name="x" stackId="2" startPc="268441149"/>
+<entry endPc="268441213" name="dc" stackId="1" startPc="268441149"/>
+<entry endPc="268441213" name="font" stackId="4" startPc="268441149"/>
+<entry endPc="268441213" name="s" stackId="5" startPc="268441149"/>
+<entry endPc="268441213" name="y" stackId="3" startPc="268441149"/>
+<entry endPc="268441241" name="state" stackId="1" startPc="268441236"/>
+<entry endPc="268441246" name="state" stackId="1" startPc="268441241"/>
 </localVars>
 <annotations/>
 <functions>
-<functionEntry name="initialize" parent="SnapshotView">
+<functionEntry accessMode="public" name="initialize" parent="SnapshotView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onLayout" parent="SnapshotView">
+<functionEntry accessMode="public" name="onLayout" parent="SnapshotView">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="onShow" parent="SnapshotView">
+<functionEntry accessMode="public" name="onShow" parent="SnapshotView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onHide" parent="SnapshotView">
+<functionEntry accessMode="public" name="onHide" parent="SnapshotView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onUpdate" parent="SnapshotView">
+<functionEntry accessMode="public" name="onUpdate" parent="SnapshotView">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="compute" parent="SnapshotView">
+<functionEntry accessMode="public" name="compute" parent="SnapshotView">
 <param id="info"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="calculateLapPace" parent="SnapshotView">
+<functionEntry accessMode="public" name="calculateLapPace" parent="SnapshotView">
 <param id="distance"/>
 <param id="time"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="toStr" parent="SnapshotView">
+<functionEntry accessMode="public" name="toStr" parent="SnapshotView">
 <param id="o"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="fmtTime" parent="SnapshotView">
+<functionEntry accessMode="public" name="fmtTime" parent="SnapshotView">
 <param id="clock"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="fmtSecs" parent="SnapshotView">
+<functionEntry accessMode="public" name="fmtSecs" parent="SnapshotView">
 <param id="secs"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="toPace" parent="SnapshotView">
+<functionEntry accessMode="public" name="toPace" parent="SnapshotView">
 <param id="speed"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="toDist" parent="SnapshotView">
+<functionEntry accessMode="public" name="toDist" parent="SnapshotView">
 <param id="dist"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="textL" parent="SnapshotView">
+<functionEntry accessMode="public" name="textL" parent="SnapshotView">
 <param id="dc"/>
 <param id="x"/>
 <param id="y"/>
@@ -401,7 +424,7 @@
 <param id="s"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="textC" parent="SnapshotView">
+<functionEntry accessMode="public" name="textC" parent="SnapshotView">
 <param id="dc"/>
 <param id="x"/>
 <param id="y"/>
@@ -409,19 +432,31 @@
 <param id="s"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="SnapshotApp">
+<functionEntry accessMode="public" name="initialize" parent="SnapshotApp">
 <documentation/>
 </functionEntry>
-<functionEntry name="onStart" parent="SnapshotApp">
+<functionEntry accessMode="public" name="onStart" parent="SnapshotApp">
 <param id="state"/>
 <documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="onStop" parent="SnapshotApp">
+<functionEntry accessMode="public" name="onStop" parent="SnapshotApp">
 <param id="state"/>
 <documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry name="getInitialView" parent="SnapshotApp">
+<functionEntry accessMode="public" name="getInitialView" parent="SnapshotApp">
 <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
 </functionEntry>
 </functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="SnapshotApp" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="316" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="355" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="386" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="417" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="448" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="479" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="670" parentId="globals" symbolId="SnapshotView" type="class"/>
+</dataEntryOffsetMappings>
 </debugInfo>
